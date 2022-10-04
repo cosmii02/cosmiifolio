@@ -89,6 +89,9 @@ npm install
 
 # Start a local dev server
 npm start
+
+# build for production
+npm run build
 ```
 
 ## Linking Portfolio to GitHub
